@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">yc_pra</string>
+    <string-array name="Pol">
+        <item>Мужской</item>
+        <item>Женский</item>
+    </string-array>
+</resources>
